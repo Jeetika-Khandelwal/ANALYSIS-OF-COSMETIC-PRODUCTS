@@ -1,10 +1,12 @@
+# Problem statement
+
 One of India's top most cosmetic product company has a wide range of
 sales spread across different parts of the country. The given data is the sales record of
 approximately 3 years . Analyze the data for some good actionable insights which can
 increase their demand planning, warehouse planning, pricing of products which in turn
 can increase their revenue.
 
-# DATASET
+# Dataset
 
 ● ParentSKU: Parent Stock Keeping Unit.
 ● Site ID: Location of Warehouse.
